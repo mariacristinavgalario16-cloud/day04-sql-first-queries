@@ -1,0 +1,4 @@
+-- Day 4 Activity 2: SQL First Queries — products table
+-- Author: Maria Cristina Galario
+-- Database: Day04_practice.db
+-- Date: June 14, 2026
